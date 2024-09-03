@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+.cairo{
+    font-family: var(--cairo-font);
+}
+.lexend{
+  font-family: var(--lexend-font);
+}
